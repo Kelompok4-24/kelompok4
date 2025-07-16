@@ -1,1 +1,11 @@
-# kelompok4
+## 📂 Dataset Kain Tradisional Maybrat
+
+Dataset ini berisi dua kelas gambar kain:
+- `kain_merah/` – 500 gambar
+- `kain_hijau/` – 500 gambar
+
+Ukuran total dataset: ± XX MB  
+Format file: `.jpg`, resolusi 224x224
+
+📥 **Download dataset di Google Drive:**
+[Klik di sini untuk mengunduh](https://drive.google.com/drive/folders/1QmiBu8iBtP_x0ze9XFOUezk04tBTbF8S?usp=drive_link)
